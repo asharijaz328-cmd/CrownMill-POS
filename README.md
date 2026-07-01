@@ -14,7 +14,9 @@
 
 ## ✨ Features
 
+- **🔒 Secure Login System**: Access-controlled environment to protect sensitive store data.
 - **🛒 Smart Cart Management**: Easily add products to the cart, calculate totals, sub-totals, and taxes in real-time.
+- **🧾 Receipt Generation & Printing**: Automatically generate and print elegant customer receipts upon checkout completion.
 - **🔐 Admin Panel**: Secure backend interface to manage inventory, update stocks, and oversee sales records.
 - **📊 SQLite Database Integration**: Reliable and fast local storage for products, transactions, and inventory.
 - **🏷️ Barcode Generator**: Built-in functionality to generate and read product barcodes for faster checkout.
@@ -57,11 +59,13 @@
 
 ## 📸 Screenshots
 
-*(Tip: Add screenshots of your actual application here! Upload the images to a folder like `assets/` or `screenshots/` and link them below)*
-
-| POS Dashboard | Admin Panel |
+| Login System | POS Dashboard |
 | :---: | :---: |
-| <img src="https://placehold.co/600x400/1a1a1a/FFD700?text=POS+Dashboard" alt="POS Dashboard" width="400"/> | <img src="https://placehold.co/600x400/1a1a1a/FFD700?text=Admin+Panel" alt="Admin Panel" width="400"/> |
+| <img src="screenshots/login.png" alt="Login System" width="400"/> | <img src="screenshots/dashboard.png" alt="POS Dashboard" width="400"/> |
+
+| Admin Panel | Receipt & Checkout |
+| :---: | :---: |
+| <img src="screenshots/admin.png" alt="Admin Panel" width="400"/> | <img src="screenshots/receipt.png" alt="Receipt Printing" width="400"/> |
 
 ---
 
