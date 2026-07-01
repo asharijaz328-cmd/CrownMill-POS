@@ -1,0 +1,35 @@
+# Compiled Java class files
+*.class
+
+# Log files
+*.log
+
+# Package Files (binaries)
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Executables and Scripts
+*.exe
+*.bat
+*.vbs
+*.iss
+*.lnk
+
+# IDE and Environment files
+.vscode/
+.idea/
+*.iml
+
+# Database Files (Sensitive / Local Data)
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Local Configuration (Contains absolute paths)
+pos_config.xml
