@@ -76,6 +76,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📝 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
 ---
-<p align="center">Made with ❤️ by Aashir Ijaz</p>
+<p align="center"> Made with ❤️ by Ashar Ijaz</p>
+
+
